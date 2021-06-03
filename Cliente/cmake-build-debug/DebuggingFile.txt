@@ -1,0 +1,1324 @@
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	2	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Se encontro el thread ideal el cual es 2
+Sorteo: Haciendo el cambio de contexto, remplazando thread 1 por thread 2
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 2
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Se encontro el thread ideal el cual es 2
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+2	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Se encontro el thread ideal el cual es 2
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 2
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Se encontro el thread ideal el cual es 2
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	2	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Se encontro el thread ideal el cual es 2
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+2	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Se encontro el thread ideal el cual es 2
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+2	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Se encontro el thread ideal el cual es 2
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	2	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Thread 2 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 3
+1	2	3	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: Haciendo el cambio de contexto, remplazando thread 2 por thread 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 3
+Sorteo: Previo al while el thread es 3
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 2
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Thread 2 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+2	0	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Thread 2 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 3
+2	3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 3
+3	0	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 2
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Thread 2 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	2	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Thread 2 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 3
+1	2	3	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+2	0	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Thread 2 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 3
+2	3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 3
+3	0	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+2	0	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Thread 2 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 3
+2	3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: ElSorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 3
+Sorteo: Previo al while el thread es 3
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: Haciendo el cambio de contexto, remplazando thread 1 por thread 3
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+2	0	0	
+Sorteo: Dentro del while la cabeza es el thread 2
+Sorteo: Thread numero 2 completado por ende se va a eliminar
+0	0	0	
+Sorteo: El tickete random generado es 2
+3	0	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	3	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 3
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	3	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 3
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	3	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	3	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	3	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 3
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 3
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 3
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Se encontro el thread ideal el cual es 3
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+3	0	
+Sorteo: Dentro del while la cabeza es el thread 3
+SorteoSorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+SoSorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 3
+Sorteo: Dentro del while la cabeza es el thread 3
+Sorteo: Thread numero 3 completado por ende se va a eliminar
+0	0	0	
+Sorteo: El tickete random generado es 2
+4	0	0	
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: Haciendo el cambio de contexto, remplazando thread 1 por thread 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+4	0	
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+4	0	
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+4	0	
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	4	
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+4	0	
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	4	
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Se encontro el thread ideal el cual es 4
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 4
+Sorteo: Dentro del while la cabeza es el thread 4
+Sorteo: Thread numero 4 completado por ende se va a eliminar
+0	0	
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Se encontro el thread ideal el cual es 1
+Sorteo: previousThread presenta un valor de NULL, colocando en contexto el thread 1
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: Haciendo el cambio de contexto, remplazando thread 1 por thread 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+5	0	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	5	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	5	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+5	0	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	5	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	5	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+5	0	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	5	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+5	0	
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Se encontro el thread ideal el cual es 5
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Se encontro el thread ideal el cual es 1
+Sorteo: Haciendo el cambio de contexto, remplazando thread 5 por thread 1
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 3
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: Haciendo el cambio de contexto, remplazando thread 1 por thread 6
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 5
+Sorteo: Dentro del while la cabeza es el thread 5
+Sorteo: Thread numero 5 completado por ende se va a eliminar
+0	0	0	
+Sorteo: El tickete random generado es 1
+1	0	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	0	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+6	0	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+6	0	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+6	0	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	6	
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Se encontro el thread ideal el cual es 6
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 6
+Sorteo: Dentro del while la cabeza es el thread 6
+Sorteo: Thread numero 6 completado por ende se va a eliminar
+0	0	
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Se encontro el thread ideal el cual es 1
+Sorteo: previousThread presenta un valor de NULL, colocando en contexto el thread 1
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+7	0	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: Haciendo el cambio de contexto, remplazando thread 1 por thread 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+7	0	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	7	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+7	0	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+7	0	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	7	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+7	0	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	7	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+7	0	
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Se encontro el thread ideal el cual es 7
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 7
+Sorteo: Dentro del while la cabeza es el thread 7
+Sorteo: Thread numero 7 completado por ende se va a eliminar
+0	0	
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Se encontro el thread ideal el cual es 1
+Sorteo: previousThread presenta un valor de NULL, colocando en contexto el thread 1
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: Haciendo el cambio de contexto, remplazando thread 1 por thread 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+8	0	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	8	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	8	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+8	0	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	8	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	8	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+8	0	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+8	0	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	8	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+8	0	
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Se encontro el thread ideal el cual es 8
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Se encontro el thread ideal el cual es 1
+Sorteo: Haciendo el cambio de contexto, remplazando thread 8 por thread 1
+Sorteo: La cantidad de threads tipo sort existentes es 3
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 8
+Sorteo: Dentro del while la cabeza es el thread 8
+Sorteo: Thread numero 8 completado por ende se va a eliminar
+0	0	0	
+Sorteo: El tickete random generado es 2
+9	0	0	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: Haciendo el cambio de contexto, remplazando thread 1 por thread 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+9	0	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+9	0	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+9	0	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	9	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	9	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 1
+1	0	
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+1	9	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+9	0	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+9	0	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 2
+Sorteo: Previo al while el thread es 9
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Thread 1 bloqueado o es administrado por el scheduler tipo RoundRobin
+Sorteo: El tickete random generado es 2
+9	0	
+Sorteo: Dentro del while la cabeza es el thread 9
+Sorteo: Se encontro el thread ideal el cual es 9
+Sorteo: La cantidad de threads tipo sort existentes es 2
+Sorteo: Generando tickete inicial el cual corresponde a 1
+Sorteo: Previo al while el thread es 1
+Sorteo: Dentro del while la cabeza es el thread 1
+Sorteo: Se encontro el thread ideal el cual es 1
+Sorteo: Haciendo el cambio de contexto, remplazando thread 9 por thread 1
