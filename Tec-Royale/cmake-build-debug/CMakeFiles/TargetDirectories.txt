@@ -1,0 +1,3 @@
+/home/joel/Documents/Enviar/tec-royale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/joel/Documents/Enviar/tec-royale/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joel/Documents/Enviar/tec-royale/cmake-build-debug/CMakeFiles/tec-royale.dir
